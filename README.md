@@ -24,8 +24,7 @@ I believe this will be a long journey. I chose GitHub because I envision this as
 > **I proposed this project, but I have absolutely no code experience. If anyone build this, please tell me. I hope to be the earliest participant in this system.**
 
 
-> **And welcome to discuss**
-You are free to Fork this repository, propose changes via Pull Requests, or discuss ideas in the [Issues](https://github.com/Dr-xy/PD-UBI/issues) section.
+> **And welcome to discuss**. You are free to Fork this repository, propose changes via Pull Requests, or discuss ideas in the [Issues](https://github.com/Dr-xy/Passion-Driven-UBI/issues) section.
 
 ---
 
