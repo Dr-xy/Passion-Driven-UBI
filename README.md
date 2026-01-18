@@ -18,8 +18,8 @@ making…………
 
 ## 💡 A Note from the Author
 
-> **"I proposed this project, but I have absolutely no engineering background. If anyone build this, please tell me. I hope to be the earliest participant in this system."**
->
+> **I proposed this project, but I have absolutely no engineering background. If anyone build this, please tell me. I hope to be the earliest participant in this system.**
+> **And welcome to discuss**
 
 
 ---
