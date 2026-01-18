@@ -12,7 +12,10 @@ This is a proposal for a new economic paradigm: **Money should not be minted by 
 
 ### 📚 Read the Proposal in your language:
 
-making…………
+- **[🇺🇸 English](PD-UBI_Proposal_EN.md)**
+- **[🇪🇸 Español (Spanish)](PD-UBI_Proposal_ES.md)**
+- **[🇫🇷 Français (French)](PD-UBI_Proposal_FR.md)**
+- **[🇯🇵 日本語 (Japanese)](PD-UBI_Proposal_JA.md)**
 
 ---
 
