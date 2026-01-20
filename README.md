@@ -27,7 +27,7 @@ The origin of Token A is anchored to **"people."** When you join the system, it 
 
 To prevent someone from using 1,000 bots to farm money, we need to confirm that **"you are a unique real person."** Therefore, if you want to participate in this system, you need a **"Personal Sovereign Server"** capable of proving your uniqueness. This server will be used on the network to prove that **"you are you,"** not someone else, and not a robot.
 
-### 📚 Read the Proposal in your language:
+### 📚 Read the Detail Proposal in your language:
 
 - **[🇺🇸 English](PD-UBI_Proposal_EN.md)**
 - **[🇪🇸 Español (Spanish)](PD-UBI_Proposal_ES.md)**
