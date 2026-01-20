@@ -21,7 +21,7 @@ Each "like" consumes **1 Token A** and simultaneously generates **1.5 Token B** 
 
 For every transaction made with Token B, a **1% "tax"** is collected by the system. These collected fees are converted back into Token A proportionally and distributed to everyone the following week, creating a continuous economic flow loop.
 
-![Cover Image](Passion-Driven-UBI.png.jpg)
+![Cover Image](Passion-Driven-UBI.png)
 
 The origin of Token A is anchored to **"people."** When you join the system, it automatically sends some Token A exclusively to you. Subsequently, you will receive Token A every week derived from the converted Token B taxes.
 
